@@ -1,4 +1,6 @@
-# WasteNot! Machine Learning Prototype
+# WasteNot!
+
+This is a prototype for the machine learning part for project WasteNot! - NYC regional nominee for NASA Space App Challenge 2017.
 
 ## Introduction
 
